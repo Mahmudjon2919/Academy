@@ -1,0 +1,22 @@
+auth
+    login
+    register
+    change-password
+    reset-password
+    update-profile
+    update-profile-avatar
+
+course
+    course-list (allow any)
+    course-detail (allow any)
+    review-list
+
+    lesson(student)
+    complate-lesson (student)
+
+payment
+    create order
+    subscribe
+
+review
+    create-review
